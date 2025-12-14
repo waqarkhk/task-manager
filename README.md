@@ -2,6 +2,11 @@
 
 A simple task management application built with Laravel and Bootstrap 4.
 
+## Demo Video
+Check out the application in action:
+
+[![Video](https://youtu.be/dr2uax6PoeQ)]([YOUR_VIDEO_URL](https://youtu.be/dr2uax6PoeQ))
+
 ## Features
 
 - Create, read, update, and delete tasks
